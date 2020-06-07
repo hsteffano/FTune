@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FTune</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="file_name">File name</string>
+    <string name="title_activity_tuner">Tuner</string>
+    <string name="title_activity_metronome">Metronome</string>
+    <string name="title_activity_help">Help</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="bpm">bpm</string>
+    <string name="timesignature">time signature</string>
+    <string name="dash">/</string>
+    <string name="volume">volume</string>
+    <string name="one">1</string>
+    <string name="title_activity_recorder">Recorder</string>
+
+</resources>

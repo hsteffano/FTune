@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\pre-dexed\debug\classes-dcd7bea2ba2208a557131c18a94ab2943a72b418.jar"
+        jar="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-8576ed377c2b74cb0f873243e41426a97f6aa64e.jar"
+        jar="D:\Documents\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-517bed8c4c400d0c6ef563caa58ac2f64f3373ea.jar"
+        jar="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\pre-dexed\debug\classes-c3fe37a189fe42543e2b13ed3b1d9717834f209d.jar"
+        jar="D:\Documents\AndroidStudioProjects\FTune\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>

@@ -1,0 +1,7 @@
+<android.support.v4.view.ViewPager
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pager"
+    android:keepScreenOn="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<!-- From: file:/D:/Documents/AndroidStudioProjects/FTune/app/src/main/res/layout/activity_main.xml -->
